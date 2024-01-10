@@ -9,3 +9,5 @@ The repository contains the following files:
 - Cleaned version of the dataset, output of the the cleaning notebook and input for the PowerBI dashboard
 
 The analysis was carried out for academic purpose.
+
+![image](https://github.com/Firefly55lm/adias_us_sales_dashboard/assets/126597462/0619fe05-2575-446c-8f8e-42dc859eb36f)
