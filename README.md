@@ -1,4 +1,4 @@
-# ADIDAS US SALES DASHBOARD
+# ADIDAS US SALES - POWERBI DASHBOARD
 We developed a PowerBI dashboard for the dataset Adidas US Sales, available [here](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset).
 
 The repository contains the following files:
