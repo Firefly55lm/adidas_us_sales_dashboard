@@ -1,2 +1,2 @@
-# adias_us_sales_dashboard
+# ADIDAS US SALES DASHBOARD
 PowerBI dashboard for Adidas US sales dataset
